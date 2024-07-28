@@ -1,9 +1,8 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.natamus.randomsheepcolours.forge.mixin",
+  "package": "com.natamus.randomsheepcolours.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "randomsheepcolours_forge.refmap.json",
   "mixins": [
 
   ],
