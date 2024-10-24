@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="*"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Random%20Sheep%20Colours"
+logoFile="icon.png"
+
+[[mods]]
+modId="randomsheepcolours"
+version="3.4"
+displayName="Random Sheep Colours"
+displayURL="https://serilum.com/mod/random-sheep-colours"
+authors="Rick South"
+description='''Gives new sheep spawns a random wool colour based on a configurable list.
+'''
+credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
+
+Alister, Andrean Olgo, aternosorg, Cherriesaurus, kate1073, Michael W. S., Tyler Behl, XAgent   
+
+If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
+'''
+
+[[dependencies.randomsheepcolours]]
+    modId="collective"
+    type="required"
+    versionRange="[7.86,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.randomsheepcolours]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.2,1.21.3]"
+    ordering="NONE"
+    side="BOTH"
+
+[[mixins]]
+    config = "randomsheepcolours.mixins.json"
