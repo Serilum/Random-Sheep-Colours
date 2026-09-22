@@ -1,5 +1,5 @@
 <h2>Random Sheep Colours</h2>
-<p><a href="https://github.com/Serilum/Random-Sheep-Colours"><img src="https://serilum.com/assets/images/logo/random-sheep-colours.gif"></a></p><h2>Download</h2>
+<p><a href="https://github.com/Serilum/Random-Sheep-Colours"><img src="https://workflow.serilum.com/web/logo/128/random-sheep-colours.gif" width="100" height="100"></a></p><h2>Download</h2>
 <p>You can download Random Sheep Colours on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/random-sheep-colours">https://curseforge.com/minecraft/mc-mods/random-sheep-colours</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/random-sheep-colours">https://modrinth.com/mod/random-sheep-colours</a></p>
 <h2>Issue Tracker</h2>
 <p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
