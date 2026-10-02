@@ -1,7 +1,7 @@
-package com.natamus.randomsheepcolours.config;
+package com.serilum.randomsheepcolours.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.randomsheepcolours.util.Reference;
+import com.serilum.randomsheepcolours.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

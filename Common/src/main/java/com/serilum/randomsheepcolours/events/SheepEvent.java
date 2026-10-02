@@ -1,8 +1,8 @@
-package com.natamus.randomsheepcolours.events;
+package com.serilum.randomsheepcolours.events;
 
 import com.natamus.collective.data.GlobalVariables;
-import com.natamus.randomsheepcolours.util.Reference;
-import com.natamus.randomsheepcolours.util.Util;
+import com.serilum.randomsheepcolours.util.Reference;
+import com.serilum.randomsheepcolours.util.Util;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.entity.AgeableMob;
 import net.minecraft.world.entity.Entity;

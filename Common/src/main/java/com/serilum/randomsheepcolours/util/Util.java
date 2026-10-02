@@ -1,6 +1,6 @@
-package com.natamus.randomsheepcolours.util;
+package com.serilum.randomsheepcolours.util;
 
-import com.natamus.randomsheepcolours.config.ConfigHandler;
+import com.serilum.randomsheepcolours.config.ConfigHandler;
 import net.minecraft.world.item.DyeColor;
 
 import java.util.ArrayList;

@@ -1,7 +1,7 @@
-package com.natamus.randomsheepcolours.forge.config;
+package com.serilum.randomsheepcolours.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.randomsheepcolours.util.Reference;
+import com.serilum.randomsheepcolours.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 

@@ -1,10 +1,10 @@
-package com.natamus.randomsheepcolours;
+package com.serilum.randomsheepcolours;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.randomsheepcolours.forge.config.IntegrateForgeConfig;
-import com.natamus.randomsheepcolours.forge.events.ForgeSheepEvent;
-import com.natamus.randomsheepcolours.util.Reference;
+import com.serilum.randomsheepcolours.forge.config.IntegrateForgeConfig;
+import com.serilum.randomsheepcolours.forge.events.ForgeSheepEvent;
+import com.serilum.randomsheepcolours.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -32,7 +32,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeSheepEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeSheepEvent.class);
 	}
 
 	private static void setGlobalConstants() {

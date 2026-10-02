@@ -1,6 +1,6 @@
-package com.natamus.randomsheepcolours.forge.events;
+package com.serilum.randomsheepcolours.forge.events;
 
-import com.natamus.randomsheepcolours.events.SheepEvent;
+import com.serilum.randomsheepcolours.events.SheepEvent;
 import net.minecraftforge.event.entity.EntityJoinLevelEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 

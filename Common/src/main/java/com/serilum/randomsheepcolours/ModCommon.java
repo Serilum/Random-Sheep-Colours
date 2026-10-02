@@ -1,7 +1,7 @@
-package com.natamus.randomsheepcolours;
+package com.serilum.randomsheepcolours;
 
-import com.natamus.randomsheepcolours.config.ConfigHandler;
-import com.natamus.randomsheepcolours.util.Util;
+import com.serilum.randomsheepcolours.config.ConfigHandler;
+import com.serilum.randomsheepcolours.util.Util;
 
 public class ModCommon {
 

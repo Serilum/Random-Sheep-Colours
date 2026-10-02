@@ -1,9 +1,9 @@
-package com.natamus.randomsheepcolours;
+package com.serilum.randomsheepcolours;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.randomsheepcolours.events.SheepEvent;
-import com.natamus.randomsheepcolours.util.Reference;
+import com.serilum.randomsheepcolours.events.SheepEvent;
+import com.serilum.randomsheepcolours.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerEntityEvents;
 import net.minecraft.server.level.ServerLevel;
